@@ -36,3 +36,8 @@ h1 {
 #btnCambiar:hover {
   background: #2ec2a2;
 }
+
+#contenedor a{
+  text-decoration: none;
+  color: aqua;
+}
